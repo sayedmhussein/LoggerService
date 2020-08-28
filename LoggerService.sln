@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerLib", "LoggerLib\LoggerLib.csproj", "{261A7F77-9A85-405A-AE06-3BB9DE998949}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerLib.Example", "LoggerLib.Example\LoggerLib.Example.csproj", "{B2869B35-CBAA-42C0-91F1-9566B8FC8C9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerLib.Test", "LoggerLib.Test\LoggerLib.Test.csproj", "{0DA869C4-9C48-4731-A308-CEC9F007BCF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{261A7F77-9A85-405A-AE06-3BB9DE998949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261A7F77-9A85-405A-AE06-3BB9DE998949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261A7F77-9A85-405A-AE06-3BB9DE998949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{261A7F77-9A85-405A-AE06-3BB9DE998949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2869B35-CBAA-42C0-91F1-9566B8FC8C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2869B35-CBAA-42C0-91F1-9566B8FC8C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2869B35-CBAA-42C0-91F1-9566B8FC8C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2869B35-CBAA-42C0-91F1-9566B8FC8C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DA869C4-9C48-4731-A308-CEC9F007BCF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA869C4-9C48-4731-A308-CEC9F007BCF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA869C4-9C48-4731-A308-CEC9F007BCF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA869C4-9C48-4731-A308-CEC9F007BCF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
