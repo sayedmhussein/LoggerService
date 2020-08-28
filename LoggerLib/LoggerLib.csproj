@@ -5,7 +5,7 @@
     <PackageId>Simple Logger</PackageId>
     <PackageVersion>0.1</PackageVersion>
     <Authors>Sayed M. Hussein</Authors>
-    <Owners>Sayed M. Hussein</Owners>
+    <Owners>sayed.hussein@gmx.com</Owners>
     <PackageReleaseNotes>Initial Release</PackageReleaseNotes>
     <PackageTags>Log, Logger, .net standard, Logging, Simple, Easy</PackageTags>
     <Description>Simple Library for General Logging.</Description>
