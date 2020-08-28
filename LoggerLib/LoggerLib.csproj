@@ -3,12 +3,16 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>Simple Logger</PackageId>
-    <PackageVersion>0.1</PackageVersion>
+    <PackageVersion>1</PackageVersion>
     <Authors>Sayed M. Hussein</Authors>
     <Owners>sayed.hussein@gmx.com</Owners>
     <PackageReleaseNotes>Initial Release</PackageReleaseNotes>
     <PackageTags>Log, Logger, .net standard, Logging, Simple, Easy</PackageTags>
     <Description>Simple Library for General Logging.</Description>
+    <Copyright>MIT License</Copyright>
+    <PackageProjectUrl>https://github.com/sayedmhussein/LoggerService</PackageProjectUrl>
+    <Summary>Simple Log Library</Summary>
+    <Title>Logger Service</Title>
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
